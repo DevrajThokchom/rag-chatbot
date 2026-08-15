@@ -1,6 +1,6 @@
-# NCERT AI Tutor 🧠
+# AI Tutor 🧠
 
-Personalized AI tutor for NCERT Science (Classes 8-10).  
+Personalized AI tutor for Science (Classes 8-10).  
 Ask questions, get hints, take quizzes, and track your progress!
 
 ## ✨ Features
